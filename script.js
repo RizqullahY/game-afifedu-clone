@@ -15,7 +15,7 @@ const imagesToPreload = [
     'panjat_pinang/standright.png',
     'panjat_pinang/climbleft.png',
     'panjat_pinang/climbright.png',
-    
+
     'balap_karung/track.png',
     'balap_karung/blue_stand.png',
     'balap_karung/blue_hop.png',
@@ -1039,9 +1039,9 @@ function showCountdown() {
     overlay.classList.add('show');
     
     const countdownSequence = [
-        // { number: '3', text: 'Bersiap...' },
-        // { number: '2', text: 'Konsentrasi...' },
-        // { number: '1', text: 'Fokus...' },
+        { number: '3', text: 'Bersiap...' },
+        { number: '2', text: 'Konsentrasi...' },
+        { number: '1', text: 'Fokus...' },
         { number: 'Mulai!', text: 'Gasskan!!!...', isStart: true }
     ];
     
