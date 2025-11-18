@@ -10,11 +10,14 @@ const urlsToCache = [
     './icon_home.png',
     './icon_panjat.png',
     './icon_tarik.png',
+
     './panjat_pinang/climbleft.png',
     './panjat_pinang/climbright.png',
     './panjat_pinang/standleft.png',
     './panjat_pinang/standright.png',
     './panjat_pinang/tiang.png',
+
+    
     './fonts/Poppins-Regular.ttf',
     './fonts/Poppins-Bold.ttf',
     './fonts/Poppins-SemiBold.ttf'

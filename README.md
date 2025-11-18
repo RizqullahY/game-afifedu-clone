@@ -1,1 +1,1 @@
-# GAME.AFIFEDU.COM CLONE
+# game.afifedu.com Clone
